@@ -48,6 +48,10 @@ img {
     display: none
 }
 
+.certa {
+    display:flex
+}
+
 @media (max-width: 614px) {
     h1 {
         margin: 30px 90px
